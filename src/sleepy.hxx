@@ -11,7 +11,7 @@
 #   include <unistd.h>
 #endif
 
-#if defined(HAVE_PAUSE)
+#if defined(SLEEPY_HAS_PAUSE)
 #   include <immintrin.h>
 #endif
 
