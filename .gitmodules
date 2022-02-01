@@ -1,0 +1,3 @@
+[submodule "external/processhacker"]
+	path = external/processhacker
+	url = https://github.com/processhacker/processhacker
